@@ -16,4 +16,4 @@ You can also find instructions for installing Octave/MATLAB in the \Environment 
 5. costFunctionReg.m - Regularized Logistic Regression Cost
 6. indicates files you will need to complete
    
-1Throughout the exercise, you will be using the scripts ex2.m and ex2 reg.m. These scripts set up the dataset for the problems and make calls to functions that you will write. You do not need to modify either of them. You are only required to modify functions in other files, by following the instructions in this assignment.
+Throughout the exercise, you will be using the scripts ex2.m and ex2 reg.m. These scripts set up the dataset for the problems and make calls to functions that you will write. You do not need to modify either of them. You are only required to modify functions in other files, by following the instructions in this assignment.
